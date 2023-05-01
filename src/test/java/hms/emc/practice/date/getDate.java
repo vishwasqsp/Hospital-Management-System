@@ -9,5 +9,6 @@ public class getDate {
 		SimpleDateFormat properDateFormat = new SimpleDateFormat("dd_MM_yyyy");
 		String date = properDateFormat.format(new Date());
 		System.out.println(date);
+		System.out.println(date);
 	}
 }
